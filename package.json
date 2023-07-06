@@ -1,0 +1,16 @@
+{
+  "name": "Product Pusher API",
+  "version": "1.0.0",
+  "description": "## Note",
+  "author": "Stephen Akinola",
+  "private": true,
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "node-bigcommerce": "^4.1.0"
+  }
+}
