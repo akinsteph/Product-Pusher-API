@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Stephen Akinola
 
-This repo is a proof of concept/ simple API
+This repo is a proof of concept/simple API. PR for Improvement and feedback are welcomed.
 
 ### What it does
 
 * Fetch Products from Salesforce API 
 * Fetch Data of each Product 
 * Push/Create new Product to the BigCommerce REST API with the custom fields saved as metafields
-* Set NEw Product Status to  live and availiablity to avaliable
+* Set New Product Status to  live and availiablity to avaliable
 
 ### References
 
